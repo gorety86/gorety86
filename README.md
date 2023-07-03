@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gorety Wagutu
-- 👀 I’m interested in coding
+- 👀 I’m interested in becoming a successfull full stack developer
 - 🌱 I’m currently learning software engineering at Moringa School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: wagutugorety@gmail.com
